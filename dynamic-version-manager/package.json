@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-version-manager",
+  "version": "1.0.0",
+  "description": "Dynamic package version management for Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "semver": "^7.3.8"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
