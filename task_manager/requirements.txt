@@ -1,0 +1,9 @@
+tk==0.1.0
+uuid==1.30
+sqlite3==2.6.0
+
+# Additional libraries that might be useful for future improvements
+# pytest==7.3.1
+# coverage==7.2.5
+# flake8==6.0.0
+# black==23.3.0
